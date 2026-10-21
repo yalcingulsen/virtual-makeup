@@ -1,0 +1,12 @@
+{
+  "lipsticks": [
+    {"id": "L01", "name": "Classic Red",  "hex": "#BE1E28", "coverage": 0.8, "finish": "satin"},
+    {"id": "L02", "name": "Nude Pink",    "hex": "#CD8C8C", "coverage": 0.5, "finish": "satin"},
+    {"id": "L03", "name": "Berry",        "hex": "#821E5A", "coverage": 0.7, "finish": "matte"},
+    {"id": "L04", "name": "Coral",        "hex": "#F06E50", "coverage": 0.6, "finish": "gloss"},
+    {"id": "L05", "name": "Plum",         "hex": "#642850", "coverage": 0.8, "finish": "matte"},
+    {"id": "L06", "name": "Rose Tint",    "hex": "#D2647D", "coverage": 0.3, "finish": "gloss"},
+    {"id": "L07", "name": "Brick",        "hex": "#9B3C2D", "coverage": 0.7, "finish": "matte"},
+    {"id": "L08", "name": "Fuchsia",      "hex": "#D21E78", "coverage": 0.8, "finish": "satin"}
+  ]
+}
